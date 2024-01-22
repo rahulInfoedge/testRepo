@@ -1,1 +1,1 @@
-command text file for application
+Text file for application specific commands
