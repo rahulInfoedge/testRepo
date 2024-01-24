@@ -1,2 +1,2 @@
 Text file for application specific commands
-version 4.0
+version 1.0
