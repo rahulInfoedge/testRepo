@@ -1,6 +1,2 @@
 Text file for application specific commands
-<<<<<<< HEAD
-version 4.0
-=======
 version 3.0
->>>>>>> bdc1958 (new changes)
