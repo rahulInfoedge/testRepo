@@ -1,1 +1,2 @@
 new remote commands file  - version 3.0
+add on version 1.0
